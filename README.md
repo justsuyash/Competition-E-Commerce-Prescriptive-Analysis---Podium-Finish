@@ -8,3 +8,5 @@ Python File is where we did our EDA some things looked that they could serve us 
 you to download notebook and check out and practice the plotly graphs. :)
 
 After the EDA we did some Statistical Analysis in R and then Provided our recommendations  in Tableau.
+
+Link to Tableau File(55MB) - https://drive.google.com/file/d/1a9A1Aw8QTx_HjVh2A5HvG_1ILmg-vnr4/view?usp=sharing
